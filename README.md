@@ -1,7 +1,10 @@
 # 𝐓𝐨𝐨𝐥 - 𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝 𝐂𝐫𝐚𝐜𝐤𝐞𝐫 🔥
 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 - 𝗟𝗜𝗠𝗢𝗡 👈
+
 𝐓𝐨𝐨𝐥 𝐒𝐭𝐮𝐭𝐮𝐬 - 𝐅𝐑𝐄𝐄 💚
+
 𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐞𝐝 𝐎𝐧𝐥𝐲 𝟔𝟒 𝐁𝐢𝐭 💔
+
 𝐖𝐨𝐫𝐤 𝐎𝐧𝐥𝐲 𝐃𝐚𝐭𝐚 💔
 ![logo](https://github.com/LMNx9-JOHNY/Password-Crack/blob/main/Screenshot_20231015-212742.jpg)
 
